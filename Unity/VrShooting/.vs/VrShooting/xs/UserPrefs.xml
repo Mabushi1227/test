@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{C3FDA074-76A0-6271-18B3-623F4D5860A8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/VrShooting/Scripts/Shooter.cs">
+    <Files>
+      <File FileName="Assets/VrShooting/Scripts/Example.cs" Line="18" Column="35" />
+      <File FileName="Assets/VrShooting/Scripts/CameraRotator.cs" Line="16" Column="33" />
+      <File FileName="Assets/VrShooting/Scripts/Shooter.cs" Line="27" Column="28" />
+      <File FileName="Assets/VrShooting/Scripts/Bullet.cs" Line="28" Column="80" />
+      <File FileName="Assets/VrShooting/Scripts/AutoDestoroy.cs" Line="6" Column="2" />
+      <File FileName="Assets/VrShooting/Scripts/Enemy.cs" Line="13" Column="1" />
+      <File FileName="Assets/VrShooting/Scripts/EnemySpawner.cs" Line="10" Column="1" />
+      <File FileName="Assets/Pixel Arsenal/Demo/Scripts/PixelArsenalBeamScript.cs" Line="132" Column="1" />
+      <File FileName="Assets/VrShooting/Scripts/SpawnController.cs" Line="32" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
